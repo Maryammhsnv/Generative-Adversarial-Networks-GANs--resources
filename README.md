@@ -1,2 +1,2 @@
-# Generative-Adversarial-Networks-GANs--resources
+# Generative-Adversarial-Networks-GANs
 Scenarios, tutorials and demos for GANs
